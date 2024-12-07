@@ -1,3 +1,1 @@
-"# javascript-course" 
-"# javascript-course" 
-"# javascript_course" 
+## JavaScript Course
