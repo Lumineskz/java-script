@@ -1,0 +1,15 @@
+.butt{
+    padding: 15px;
+    border:none;
+    border-radius: 5px;
+    color:white;
+    background-color: rgb(84, 84, 216);
+}
+.butt:hover{
+    background-color: rgb(26, 26, 125);
+}
+.in{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
